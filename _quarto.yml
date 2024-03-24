@@ -6,6 +6,9 @@ website:
   navbar:
     right:
       - about.qmd
+      - icon: rss
+        href: index.xml
+        rel: me
       - icon: github
         href: https://github.com/avocatoKitty
 format:
