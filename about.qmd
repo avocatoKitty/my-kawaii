@@ -1,0 +1,13 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/avocatoKitty
+
+---
+
+You know the pictures you see online but you don't know how to draw? This website will help you to draw them.

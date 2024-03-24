@@ -1,0 +1,11 @@
+---
+title: "Scribble Scribble Kitty"
+author: "AvocatoKitty"
+date: "2024-03-24"
+categories: [cat, kitty]
+image: "image.jpg"
+---
+
+Next up how to draw kitty's!
+
+![A quick scribble of... A KITTY!!!](Kitty.jpg)

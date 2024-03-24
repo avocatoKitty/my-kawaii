@@ -1,0 +1,15 @@
+---
+title: "Scribble Scribble Draw"
+author: "AvocatoKitty"
+date: "2024-03-22"
+categories: [drawings]
+---
+
+This is the first post on this website. Welcome!
+
+
+Scroll down to see Scribble Scribble Draw's tutorial on how to draw an axolotl!
+
+![A quick scribble of... an AXOLOTL!!!](axolotl.jpg)
+
+![How to draw... an AXOLOTL!!!](axolotl_draw.jpg)
