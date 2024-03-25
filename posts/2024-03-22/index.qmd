@@ -2,7 +2,7 @@
 title: "Scribble Scribble Draw"
 author: "AvocatoKitty"
 date: "2024-03-22"
-categories: [drawings]
+categories: [drawing, scribble, axolotol]
 ---
 
 This is the first post on this website. Welcome!

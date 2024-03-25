@@ -2,7 +2,7 @@
 title: "Scribble Scribble Kitty"
 author: "AvocatoKitty"
 date: "2024-03-24"
-categories: [cat, kitty, drawing]
+categories: [cat, kitty, drawing, scribble]
 image: "Kitty.jpg"
 ---
 
