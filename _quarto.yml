@@ -3,6 +3,8 @@ project:
 
 website:
   title: "Scribble Scribble Draw"
+  site-url: https://avocatokitty.github.io/my-kawaii/
+  description: "How to Scribble :-)"
   navbar:
     right:
       - about.qmd
