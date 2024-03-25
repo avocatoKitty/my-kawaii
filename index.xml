@@ -41,6 +41,7 @@
   <category>cat</category>
   <category>kitty</category>
   <category>drawing</category>
+  <category>scribble</category>
   <guid>https://avocatokitty.github.io/my-kawaii/posts/2024-03-24/</guid>
   <pubDate>Sun, 24 Mar 2024 00:00:00 GMT</pubDate>
   <media:content url="https://avocatokitty.github.io/my-kawaii/posts/2024-03-24/Kitty.jpg" medium="image" type="image/jpeg"/>
@@ -73,7 +74,9 @@
 
 
  ]]></description>
-  <category>drawings</category>
+  <category>drawing</category>
+  <category>scribble</category>
+  <category>axolotol</category>
   <guid>https://avocatokitty.github.io/my-kawaii/posts/2024-03-22/</guid>
   <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
 </item>
