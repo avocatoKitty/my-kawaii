@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Scribble Scribble Draw</title>
+<link>https://avocatokitty.github.io/my-kawaii/</link>
+<atom:link href="https://avocatokitty.github.io/my-kawaii/index.xml" rel="self" type="application/rss+xml"/>
+<description>How to Scribble :-)</description>
+<generator>quarto-1.4.551</generator>
+<lastBuildDate>Sun, 24 Mar 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Scribble Scribble Kitty</title>
+  <dc:creator>AvocatoKitty </dc:creator>
+  <link>https://avocatokitty.github.io/my-kawaii/posts/2024-03-24/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Next up how to draw kitty’s!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://avocatokitty.github.io/my-kawaii/posts/2024-03-24/Kitty.jpg" class="img-fluid figure-img"></p>
+<figcaption>A quick scribble of… A KITTY!!!</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://avocatokitty.github.io/my-kawaii/posts/2024-03-24/Kitty_draw.jpg" class="img-fluid figure-img"></p>
+<figcaption>How to draw… A KITTY!!!</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>cat</category>
+  <category>kitty</category>
+  <category>drawing</category>
+  <guid>https://avocatokitty.github.io/my-kawaii/posts/2024-03-24/</guid>
+  <pubDate>Sun, 24 Mar 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://avocatokitty.github.io/my-kawaii/posts/2024-03-24/Kitty.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Scribble Scribble Draw</title>
+  <dc:creator>AvocatoKitty </dc:creator>
+  <link>https://avocatokitty.github.io/my-kawaii/posts/2024-03-22/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is the first post on this website. Welcome!</p>
+<p>Scroll down to see Scribble Scribble Draw’s tutorial on how to draw an axolotl!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://avocatokitty.github.io/my-kawaii/posts/2024-03-22/axolotl.jpg" class="img-fluid figure-img"></p>
+<figcaption>A quick scribble of… an AXOLOTL!!!</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://avocatokitty.github.io/my-kawaii/posts/2024-03-22/axolotl_draw.jpg" class="img-fluid figure-img"></p>
+<figcaption>How to draw… an AXOLOTL!!!</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>drawings</category>
+  <guid>https://avocatokitty.github.io/my-kawaii/posts/2024-03-22/</guid>
+  <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
