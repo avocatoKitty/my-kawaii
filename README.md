@@ -5,12 +5,12 @@ This is a [Quarto](https://quarto.org) website for my blog of how to draw Kawaii
 
 ## How to Add Posts
 
-These instructions take you throw the steps require to add posts to the website.
+These instructions take you through the steps required to add posts to the website.
 
 
 ### Drawing Scribbles
 
-You need to have a new Scrbble to add to the website. This involves doing two drawings.
+You need to have a new Scrbble (drawings) to add to the website. This involves doing two drawings.
 
 1. The picture you want to show how to draw.
 2. The six steps to drawing the picture.
